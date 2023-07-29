@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![Spotify](https://spotify-playing-838z5ehdu-imsrikant.vercel.app/api/spotify)](https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2040%20mins-blue)
 
@@ -84,7 +84,7 @@ Python                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 
-[![Spotify](https://spotify-playing-now-mu.vercel.app/api/spotify)](https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er)
+
 <!--
 **srikant-marvel/srikant-marvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
