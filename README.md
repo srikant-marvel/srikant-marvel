@@ -83,6 +83,8 @@ Python                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 29/07/2023 06:34:27 UTC
 <!--END_SECTION:waka-->
 
+
+[![Spotify](https://spotify-playing-now-mu.vercel.app/api/spotify)](https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er)
 <!--
 **srikant-marvel/srikant-marvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
