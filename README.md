@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://spotify-playing-838z5ehdu-imsrikant.vercel.app/api/spotify)](https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er)
+[![Spotify](https://spotify-playing-now-imsrikant.vercel.app/api/spotify)](https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2040%20mins-blue)
 
