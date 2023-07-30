@@ -1,5 +1,7 @@
 <p align="center">
-### Hi there 👋
+
+ 
+<h1>Hi there 👋</h1>
 
 [![Spotify](https://spotify-playing-now-imsrikant.vercel.app/api/spotify)](https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er)
 
