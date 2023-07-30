@@ -6,7 +6,7 @@
 [![Spotify](https://spotify-playing-now-imsrikant.vercel.app/api/spotify)](https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er)
 
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2017%20mins-blue)
 
