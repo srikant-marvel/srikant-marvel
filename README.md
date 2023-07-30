@@ -1,4 +1,3 @@
-<p align="center">
 
 
 <h1>Hi there 👋</h1>
@@ -93,9 +92,6 @@ Python                   1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
  Last Updated on 30/07/2023 03:34:36 UTC
 <!--END_SECTION:waka-->
-
-</p>
-
 <!--
 **srikant-marvel/srikant-marvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
