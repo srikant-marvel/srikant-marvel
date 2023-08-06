@@ -1,6 +1,7 @@
 <p>
 <img src="https://github.com/srikant-marvel/srikant-marvel/blob/7919aa6f6879eda98c25304f6b6448e0bfff0848/assets/Github%20Header%20Image.gif" alt="header image">
 </p>
+
 ## :headphones:&nbsp;&nbsp; Spotify:
 <details open>
     <summary>🎶</summary>
