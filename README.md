@@ -9,7 +9,8 @@
   <a href="https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er"target+"_blank"><img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=zbbwgd5b5xqg388spshqfy1er&cover_image=true&theme=default&show_offline=false&background_color=121222&interchange=true&bar_color_cover=true" alt="spotify card"></a>
 </div>
 </details>
-
+ 
+ 
 ## :computer: Languages and Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="c logo"  />
@@ -57,6 +58,31 @@
   <img src="https://skillicons.dev/icons?i=md" height="39" alt="markdown logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="39" alt="linux logo"  />
+</div>
+
+
+## :handshake: Connect With Me:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/imsrikant" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/xero0kun" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:srikant20162016@gmaIl.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/xero0kun/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://codepen.io/imsrikant" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+  <a href="https://replit.com/@imsrikant" target="_blank">
+   <img src="https://skillicons.dev/icons?i=replit" width="52" height="40" alt="replit logo"  />
+   </a>
+   
 </div>
 
 ## 📊 GitHub Stats:
