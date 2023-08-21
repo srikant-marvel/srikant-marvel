@@ -10,7 +10,7 @@
 </div>
 </details>
 
-## Languages and Tools:
+## :computer: Languages and Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="c logo"  />
   <img width="13" />
