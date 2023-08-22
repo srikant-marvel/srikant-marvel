@@ -1,5 +1,5 @@
 <p>
-<img src="assets/Github Header Image.gif" alt="header image">
+<img src="assets/Retropix.png" alt="header image">
 </p>
 
 ## :headphones:&nbsp;&nbsp; Spotify:
