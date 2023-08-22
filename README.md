@@ -204,6 +204,13 @@ C                        1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
  Last Updated on 22/08/2023 06:37:09 UTC
 <!--END_SECTION:waka-->
+
+## :snake::
+<div align="center">
+<picture>
+  <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/srikant-marvel/srikant-marvel/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
 <!--
 **srikant-marvel/srikant-marvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
