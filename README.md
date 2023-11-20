@@ -65,16 +65,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/imsrikant" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/xero0kun" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:srikant20162016@gmaIl.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/xero0kun/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://codepen.io/imsrikant" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="52" height="40" alt="codepen logo"  />
@@ -83,7 +80,7 @@
    <img src="https://skillicons.dev/icons?i=replit" width="52" height="40" alt="replit logo"  />
    </a>
      <a href="https://discordapp.com/users/958730116836507718" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="52" height="40" alt="discord logo"  />
   </a>
    
 </div>
