@@ -18,6 +18,7 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SYMBOL_VERSION: "3"
           LOCALE: "en"
+          SHOW_PROFILE_VIEWS: "False"
           # Commit
           COMMIT_BY_ME: "True"
           COMMIT_EMAIL: ${{ secrets.EMAIL_ID }}
