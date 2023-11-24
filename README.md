@@ -92,20 +92,20 @@
     <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=srikant-marvel&theme=radical&hide_border=false&include_all_commits=false&count_private=true&border_radius=20&rank_icon=github&show_icons=true" alt="Github-Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=imsrikant&theme=radical&hide_border=false&include_all_commits=false&count_private=true&border_radius=20&rank_icon=github&show_icons=true" alt="Github-Stats">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikant-marvel&theme=radical&hide_border=false&border_radius=20&card_width=500" alt="Github streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsrikant&theme=radical&hide_border=false&border_radius=20&card_width=500" alt="Github streak Stats">
     </td>
   </tr>
   <tr>
     <td colspan=2 align=center>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikant-marvel&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_radius=20" alt="language card">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsrikant&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_radius=20" alt="language card">
     </td>
   </tr>
   <tr>
       <td colspan=2>
-        <img style="border-radius:20px;" width=1024  src="https://github-readme-activity-graph.vercel.app/graph?username=srikant-marvel&bg_color=141321&color=a9fef7&point=f8d847&line=fe428e&area=true" alt="activity graph">
+        <img style="border-radius:20px;" width=1024  src="https://github-readme-activity-graph.vercel.app/graph?username=imsrikant&bg_color=141321&color=a9fef7&point=f8d847&line=fe428e&area=true" alt="activity graph">
       </td>
   </tr>
 
@@ -205,11 +205,11 @@ Java                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ## :snake::
 <div align="center">
 <picture>
-  <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/srikant-marvel/srikant-marvel/output/github-contribution-grid-snake-dark.svg" />
+  <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/imsrikant/imsrikant/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
 <!--
-**srikant-marvel/srikant-marvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**imsrikant/imsrikant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
