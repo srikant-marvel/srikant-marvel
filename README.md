@@ -1,5 +1,7 @@
 <p>
-<img src="./assets/Retropix.png" alt="header image">
+    
+![Retropix](https://github.com/imsrikant/imsrikant/assets/52560067/eb97bfe4-2c63-4f9a-8b1f-d035cfbb6728)   
+
 </p>
 
 ## :headphones:&nbsp;&nbsp; Spotify:
