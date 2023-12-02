@@ -4,7 +4,8 @@
 
 </p>
 
-## :headphones:&nbsp;&nbsp; Spotify:
+
+## 🎧 Spotify:
 <details open>
     <summary>🎶</summary>
 <div align="center">
@@ -13,7 +14,7 @@
 </details>
  
  
-## :computer: Languages and Tools:
+## 💻 Languages and Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="c logo"  />
   <img width="13" />
@@ -63,7 +64,7 @@
 </div>
 
 
-## :handshake: Connect With Me:
+## 👋 Connect With Me:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/imsrikant" target="_blank">
