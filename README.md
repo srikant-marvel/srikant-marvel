@@ -54,7 +54,7 @@
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=github" height="39" alt="github logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="39" alt="codepen logo"  />
+  <img src="https://skillicons.dev/icons?i=codepen" height="39" alt="codepen logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="39" alt="git logo"  />
   <img width="13" />
@@ -77,7 +77,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://codepen.io/imsrikant" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="52" height="40" alt="codepen logo"  />
+    <img src="https://skillicons.dev/icons?i=codepen" width="52" height="40" alt="codepen logo"  />
   </a>
   <a href="https://replit.com/@imsrikant" target="_blank">
    <img src="https://skillicons.dev/icons?i=replit" width="52" height="40" alt="replit logo"  />
