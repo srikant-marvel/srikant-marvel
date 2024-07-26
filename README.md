@@ -71,7 +71,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/xero0kun" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="52" height="40" alt="twitter logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/xero0kun/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="52" height="40" alt="instagram logo"  />
