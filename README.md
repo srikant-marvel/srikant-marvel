@@ -9,7 +9,7 @@
 <details open>
     <summary>🎶</summary>
 <div align="center">
-  <a href="https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er"target+"_blank"><img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=zbbwgd5b5xqg388spshqfy1er&cover_image=true&theme=default&show_offline=false&background_color=121222&interchange=true&bar_color_cover=true" alt="spotify card"></a>
+  <a href="https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er"target+"_blank"><img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=zbbwgd5b5xqg388spshqfy1er&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify card"></a>
 </div>
 </details>
  
